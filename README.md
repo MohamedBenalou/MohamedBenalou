@@ -11,10 +11,12 @@
 ---
 
 ## 🚀 About Me
-I am a **Mobile Application Developer** specializing in **Flutter**, with solid experience in **PHP backend development**, **SQL databases**, and **RESTful APIs**.
-
-I design, build, and integrate **custom APIs**, and I work extensively with **Firebase** for authentication, databases, and notifications.  
-My focus is on clean code, performance, and scalable architecture.
+- Mobile application developer using **Flutter**
+- Backend developer using **PHP**
+- Experienced with **MySQL & SQLite** databases
+- I build and design **RESTful APIs**
+- I work with **Firebase** (Authentication, Firestore, Notifications)
+- Passionate about clean code, performance, and scalable applications
 
 ---
 
@@ -53,7 +55,7 @@ My focus is on clean code, performance, and scalable architecture.
 
 ---
 
-## 💻 Code Snapshot
+## 💻 Code Style
 
 ```dart
 class BenalouMohammed {
@@ -67,3 +69,31 @@ class BenalouMohammed {
     "OS": ["Linux", "Windows"],
   };
 }
+
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+<div align="center" >
+
+
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
+
